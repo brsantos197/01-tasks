@@ -1,0 +1,52 @@
+{
+  "tasks": [
+    {
+      "id": "06e70dc1-26fb-4d02-a6f8-69caa60ec2a1",
+      "title": "Começando",
+      "description": "Iniciando o dia ligando o computador e abrindo aplicativos para desenvolver",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:13.087Z",
+      "updated_at": "2023-02-05T17:55:13.087Z"
+    },
+    {
+      "id": "e49a9da7-07f8-4287-9839-551b6118b70c",
+      "title": "Preparar café",
+      "description": "Preparando o primeiro cafezinho do dia",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:15.099Z",
+      "updated_at": "2023-02-05T17:55:15.099Z"
+    },
+    {
+      "id": "4bed87bc-2f6a-4c2a-9325-70c92b09ed2e",
+      "title": "Resolvendo bugs",
+      "description": "Corrigindo bugs reportados pelo suporte",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:17.112Z",
+      "updated_at": "2023-02-05T17:55:17.112Z"
+    },
+    {
+      "id": "6617472b-3955-49a4-8bcf-2986ab0e6542",
+      "title": "Almoço",
+      "description": "Parada pro almoço",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:19.118Z",
+      "updated_at": "2023-02-05T17:55:19.118Z"
+    },
+    {
+      "id": "9118bf45-582d-40f9-b999-a70407b58ec7",
+      "title": "Voltando ao trabalho",
+      "description": "Continuando...",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:21.132Z",
+      "updated_at": "2023-02-05T17:55:21.132Z"
+    },
+    {
+      "id": "b469c23c-86ed-4aae-80e1-3a579e29ebcc",
+      "title": "Finalizando o dia",
+      "description": "Amanhã tem mais!",
+      "completed_at": null,
+      "created_at": "2023-02-05T17:55:23.142Z",
+      "updated_at": "2023-02-05T17:55:23.142Z"
+    }
+  ]
+}
